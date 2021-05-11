@@ -1,0 +1,16 @@
+{
+ "python": "/Users/evaalonsoortiz/sct_5.2.0/python/envs/venv_sct/bin/python",
+ "cwd": "/Users/evaalonsoortiz/Documents/Academic/Postdoc_Julien/Projects/THS_7T/Data.nosync/DEVELOPMENT_DR_COHEN-ADAD_20210408_113742_899000/nifti/TFL_SAG_2MMISO_384MM_REFV_0007",
+ "cmdline": "sct_deepseg_sc -i TFL_SAG_2MMISO_384MM_REFV_0007_tfl_sag_2mmISO_384mm_REFV_20210408113743_7.nii -c t2s -qc qc",
+ "command": "sct_deepseg_sc",
+ "sct_version": "5.2.0",
+ "dataset": "DEVELOPMENT_DR_COHEN-ADAD_20210408_113742_899000",
+ "subject": "nifti",
+ "contrast": "TFL_SAG_2MMISO_384MM_REFV_0007",
+ "fname_in": "TFL_SAG_2MMISO_384MM_REFV_0007_tfl_sag_2mmISO_384mm_REFV_20210408113743_7.nii",
+ "orientation": "Axial",
+ "background_img": "DEVELOPMENT_DR_COHEN-ADAD_20210408_113742_899000/nifti/TFL_SAG_2MMISO_384MM_REFV_0007/sct_deepseg_sc/2021_04_09_151246.944914/bkg_img.png",
+ "overlay_img": "DEVELOPMENT_DR_COHEN-ADAD_20210408_113742_899000/nifti/TFL_SAG_2MMISO_384MM_REFV_0007/sct_deepseg_sc/2021_04_09_151246.944914/overlay_img.png",
+ "dimension": "300x600",
+ "moddate": "2021-04-09 15:12:47"
+}
