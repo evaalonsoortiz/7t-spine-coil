@@ -1,20 +1,11 @@
-scipy 
-plotly 
-dash 
-dash_core_components 
-dash_html_components 
-dash_dangerously_set_inner_html 
-dash-renderer 
-sh 
-flask 
-ipywidgets 
-nbconvert==5.4.0 
-jupyterlab>=0.35.4 
-pandas 
-numpy 
-datascience 
-folium 
-matplotlib 
-sklearn 
+# Requirements for the demo notebooks
+# Useful for MyBinder configuration
+pandas
+numpy
+datascience
+folium
+matplotlib
+scipy
+sklearn
 nilearn
 tensorflow-gpu >= 1.0
