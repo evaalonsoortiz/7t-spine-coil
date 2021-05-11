@@ -8,4 +8,6 @@ matplotlib
 scipy
 sklearn
 nilearn
-tensorflow-gpu >= 1.0
+tensorflow
+transforms3d
+wquantiles
